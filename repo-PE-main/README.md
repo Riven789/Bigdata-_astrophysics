@@ -1,0 +1,3 @@
+# Workspace for "Gravitational-wave parameter estimation" project
+
+Mergers of compact binary systems produce gravitational waves (GW) that are detected by the Laser Interferometer Gravitational-waves Observatory (LIGO) and Virgo Interferometer. Electromagnetic follow-up of these events would help us learn more about the sources. There have been increasing efforts in enabling these follow-ups which involves rapid parameter estimation. This project aims at developing a machine learning algorithm using Normalizing flow with Similarity embedding network for the same purpose. Bayesian analysis might be used potentially for comparison. 
